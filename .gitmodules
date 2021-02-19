@@ -1,0 +1,3 @@
+[submodule "tp/mipt-diht-tp-2021-seminars"]
+	path = tp/mipt-diht-tp-2021-seminars
+	url = https://github.com/MVCionOld/mipt-diht-tp-2021-seminars.git
