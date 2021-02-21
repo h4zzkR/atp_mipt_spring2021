@@ -29,7 +29,7 @@ int main() {
 
 
 
-![&amp;lt;todo&amp;gt; replace image with newer from lecture record with containers example](../.gitbook/assets/image%20%2810%29.png)
+![iterators zoo](../.gitbook/assets/snimok-ekrana-ot-2021-02-21-16-58-51.png)
 
 
 
