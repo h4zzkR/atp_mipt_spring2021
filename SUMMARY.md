@@ -2,6 +2,7 @@
 
 * [Конспекты лекций 2-го семестра кафедры алгоритмов и технологий МФТИ](README.md)
 * [cpp](cpp/README.md)
+  * [9.2 Containers](cpp/9.2-containers.md)
   * [9 Containers](cpp/9-containers.md)
   * [8.2 Iterators](cpp/8.2-iterators.md)
   * [VIII.1 Iterators](cpp/vii.1-iterators.md)
