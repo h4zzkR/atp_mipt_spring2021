@@ -208,7 +208,7 @@ int main() {
 
 ```
 
-### 9.4 Deck architecture
+### 9.4 Deque architecture
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
