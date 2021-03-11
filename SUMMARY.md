@@ -2,6 +2,7 @@
 
 * [Конспекты лекций 2-го семестра кафедры алгоритмов и технологий МФТИ](README.md)
 * [cpp](cpp/README.md)
+  * [10.1  Allocators. New/delete overloading](cpp/10.1-allocators.-new-delete-overloading.md)
   * [9.2 Containers](cpp/9.2-containers.md)
   * [9 Containers](cpp/9-containers.md)
   * [8.2 Iterators](cpp/8.2-iterators.md)
@@ -11,6 +12,7 @@
 * [alg](alg/README.md)
   * [I.1 Dynamic programming](alg/i.1-dynamic-programming.md)
 * [tp](tp/README.md)
+  * [5. Software developing steps](tp/5.-software-developing-steps.md)
   * [4. Debugging](tp/4.-debugging.md)
   * [III.3 Development](tp/iii.3-development.md)
   * [II.2 SOLID](tp/ii.2-solid.md)
