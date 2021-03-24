@@ -12,6 +12,7 @@
 * [alg](alg/README.md)
   * [I.1 Dynamic programming](alg/i.1-dynamic-programming.md)
 * [tp](tp/README.md)
+  * [6. UML diagrams](tp/6.-uml-diagrams.md)
   * [5. Software developing steps](tp/5.-software-developing-steps.md)
   * [4. Debugging](tp/4.-debugging.md)
   * [III.3 Development](tp/iii.3-development.md)

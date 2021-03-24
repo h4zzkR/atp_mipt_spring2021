@@ -25,7 +25,7 @@ list - двусвязный список \(linked list in Java\) - вставк�
 * set/map      O\(logn\)                      N                    O\(logn\)    O\(logn\)   O\(logn\)         bidirectional
 * un-d set/map  O\(1\)                       N                      O\(1\)            O\(1\)       O\(1\)                forward
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2813%29%20%281%29.png)
 
 ### 9.2 Vector implementation
 
@@ -212,5 +212,5 @@ int main() {
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-![&#x43F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x435;&#x43B;&#x435;&#x439;](../.gitbook/assets/image%20%2812%29.png)
+![&#x43F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x435;&#x43B;&#x435;&#x439;](../.gitbook/assets/image%20%2812%29%20%281%29.png)
 
