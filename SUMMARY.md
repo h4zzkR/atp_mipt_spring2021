@@ -2,6 +2,8 @@
 
 * [Конспекты лекций 2-го семестра кафедры алгоритмов и технологий МФТИ](README.md)
 * [cpp](cpp/README.md)
+  * [11. Move-semantics, rvalue references](cpp/11.-move-semantics-rvalue-references.md)
+  * [10. Non-standart allocators](cpp/10.-non-standart-allocators.md)
   * [10.1  Allocators. New/delete overloading](cpp/10.1-allocators.-new-delete-overloading.md)
   * [9.2 Containers](cpp/9.2-containers.md)
   * [9 Containers](cpp/9-containers.md)
