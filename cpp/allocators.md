@@ -28,7 +28,7 @@ struct allocator {
 
 Изначально запрошивает много памяти (pool). Хранит стек аллокатора (указатель на первый незанятый байт). Allocate сдвигает указатель, возвращает "кусок" памяти. Используется, когда заведомо знаем, что у нас есть много памяти в запасе и когда знаем, что точно влезем в pool.
 
-![image-20210327183720852](/home/h4zzkr/snap/typora/33/.config/Typora/typora-user-images/image-20210327183720852.png)
+![image-20210327183720852](../.gitbook/assets/image-20210327183720852.png)
 
 deallocate аллокатор игнорирует (ничего не делает). Экономит время крч, дает выигрыш для контейнеров, которые часто выделяют себе память (list, unordered_map, map).
 
@@ -42,7 +42,7 @@ deallocate аллокатор игнорирует (ничего не делае
 
 См member types на cppreference std::allocator, std::allocator_traits
 
-![image-20210327190155033](/home/h4zzkr/snap/typora/33/.config/Typora/typora-user-images/image-20210327190155033.png)
+![image-20210327190155033](../.gitbook/assets/image-20210327190155033.png)
 
 
 
@@ -159,7 +159,7 @@ since cpp20 is rebind_alloc in allocator_traits
 
  Копирование подразумевает то, что на новом аллокаторе можно без проблем освободить то, что было зарезервировано старым (равны в смысле оператора ==)
 
-![image-20210327194445927](/home/h4zzkr/snap/typora/33/.config/Typora/typora-user-images/image-20210327194445927.png)
+![image-20210327194445927](../.gitbook/assets/image-20210327194445927.png)
 
 Можно сделать много аллокаторов, которые указывают на один пул. В таком случае удалять пул надо только тогда, когда все аллокаторы уничтожаются. Это можно сделать через shared_ptr.
 
@@ -169,7 +169,7 @@ shared_ptr<Pool> - принимает в конструкторе указате
 
 ## 10.8 Allocator behavior on container copy/assign
 
-![image-20210327195339566](/home/h4zzkr/snap/typora/33/.config/Typora/typora-user-images/image-20210327195339566.png)
+![image-20210327195339566](../.gitbook/assets/image-20210327195339566.png)
 
 Когда копировать, когда нет?
 
