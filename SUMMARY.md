@@ -2,6 +2,9 @@
 
 * [Конспекты лекций 2-го семестра кафедры алгоритмов и технологий МФТИ](README.md)
 * [cpp](cpp/README.md)
+  * [13. Smart pointers](cpp/13.-smart-pointers.md)
+  * [12. Вывод типов, auto, decltype](cpp/12.-vyvod-tipov-auto-decltype.md)
+  * [11.1 Move semantics](cpp/11.1-move-semantics.md)
   * [11. Move-semantics, rvalue references](cpp/11.-move-semantics-rvalue-references.md)
   * [10. Non-standart allocators](cpp/10.-non-standart-allocators.md)
   * [10.1  Allocators. New/delete overloading](cpp/10.1-allocators.-new-delete-overloading.md)
